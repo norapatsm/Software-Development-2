@@ -1,0 +1,11 @@
+h1 {
+    color:rgb(0, 255, 204);  
+    font-size: 60;
+    font-family:sans-serif;
+}
+ 
+body {
+    color:rgb(0, 255, 204);
+    background-color: #090c32;
+    position:static;  
+}
